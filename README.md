@@ -14,6 +14,8 @@ We have to do the following:
 - Make 2 paragraphs
 - Make one hyperlink
 
+Fixing typo 💬💬💬
+
 You can find out more about the markdown commands here: [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
